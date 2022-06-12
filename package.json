@@ -5,6 +5,9 @@
   "repository": "https://github.com/InvisiBug/test-package.git",
   "author": "Matt Kavanagh <matthew.kavanagh@skybettingandgaming.com>",
   "license": "MIT",
+  "scripts": {
+    "build":"tsc"
+  },
   "dependencies": {
     "node": "^17.7.2",
     "nodemon": "^2.0.16",
