@@ -1,3 +1,1 @@
-export const testFunction = () =>{
-  console.log("Hello from test function")
-}
+export { default as TodaysDate } from "./TodaysDate";
